@@ -7,8 +7,11 @@ ingredients = [
 ]
 
 def sandwich_request(ingredients, order) 
-  # your code here!
+  ingredients[1]
+  ingredients[1][0][0]
 end
+
+sandwich_request
 
 # example city_info hash
 cities = {
@@ -35,7 +38,5 @@ cities = {
 }
 
 def city_populations(cities)
-  ingredients[0][1]
-  ingredients[1]
-  ingredients[1][0][0]
+  
 end
