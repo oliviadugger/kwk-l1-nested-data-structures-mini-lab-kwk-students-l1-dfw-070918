@@ -35,5 +35,5 @@ cities = {
 }
 
 def city_populations(cities)
-  # your code here!
+  ingredients[0][1]
 end
